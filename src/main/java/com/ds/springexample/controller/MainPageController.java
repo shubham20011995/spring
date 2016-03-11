@@ -25,7 +25,7 @@ public class MainPageController {
      */
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String home(Model model) {
-        model.addAttribute("controllerMessage", "Welcome to Home page of Spring example app...");
+        model.addAttribute("controllerMessage", "Welcome to Home page of Spring example app");
         logger.info("requesting home");
         return "home";
     }
