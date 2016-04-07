@@ -2,15 +2,15 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>Home Page</title>
 </head>
 <body>
 <h1>
-	Hello world!
+	Hello world!!!!!!
 </h1>
 ${controllerMessage}<br/>
 <br/>
 <br/>
-<a href="product/list">:)Click here to see the Product list</a>
+<a href="product/list">:)Click here to view the Product list</a>
 </body>
 </html>
