@@ -11,6 +11,6 @@
 ${controllerMessage}<br/>
 <br/>
 <br/>
-<a href="product/list">:)Click here to view the Product list</a>
+<a href="product/list">:)Click here to view the Product listnew</a>
 </body>
 </html>
